@@ -1,5 +1,5 @@
 <h1 align="center"> GitHub Repo Maintenance :rocket: </h1>
----
+
 
 Set of guidelines on how to organise and maintain your GitHub repos (repositories).
 
@@ -124,4 +124,4 @@ You can find our full code of conduct [here](CODE_OF_CONDUCT.md).
 
 ## :octocat: Our Contributors
 
-<a href="https://github.com/anthonytranDev"><img style="display: inline-block;width: 30px; height: 30px; margin: 5px;border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/26009168?s=460&v=4"/></a>
+- Anthony Tran - anthonytran.dev@gmail.com
