@@ -1,7 +1,7 @@
 <h1 align="center"> GitHub Repo Maintenance :rocket: </h1>
 
 
-Set of guidelines on how to organise and maintain your GitHub repos (repositories).
+<p align="center">Set of guidelines on how to organise and maintain your GitHub repos (repositories).</p>
 
 ---
 
