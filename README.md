@@ -118,7 +118,7 @@ you are new to contributing please could you email the contributors below for ad
 
 ### Code of Conduct
 
-You can find our full code of conduct [here](/CODE_OF_CONDUCT.md).
+You can find our full code of conduct [here](https://github.com/anthonytranDev/maintaining-github-repo/blob/master/CODE_OF_CONDUCT.md).
 
 ---
 
